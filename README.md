@@ -5,7 +5,7 @@ I used this website as a reference for the design: https://electro-dan.co.uk/ele
 
 # Images
 
-<img src="Pictures/assembled.img" alt="Assembled PCB">
+<img src="Pictures/assembled.jpg" alt="Assembled PCB">
 
 © 2026 David Wrinn. This work is licensed under CC BY-SA 4.0
 
